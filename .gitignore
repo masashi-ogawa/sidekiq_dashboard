@@ -1,0 +1,12 @@
+/.bundle
+/log/*.log
+.DS_Store
+Thumbs.db
+*.orig
+*.swp
+/vendor/bundle
+/Gemfile.lock
+/.metadata
+/.project
+/.idea
+/pid/*.pid
